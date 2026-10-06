@@ -10,7 +10,7 @@ metadata:
 spec:
   tls:
   - hosts:
-    - "server.aws-esk.com"
+    - "server.aws-yjeee.com"
     secretName: server-aws-yjeee-com-tls
   rules:
   - host: server.aws-yjeee.com  # 설정하려는 도메인 이름. 제외시에 elb주소로도 접근할수 있는 모든 도메인 접근 가능.
